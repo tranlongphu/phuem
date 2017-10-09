@@ -1,0 +1,9 @@
+C:\phuemdev\phuemtest\bin\Debug\netcoreapp1.1\phuemtest.deps.json
+C:\phuemdev\phuemtest\bin\Debug\netcoreapp1.1\phuemtest.runtimeconfig.json
+C:\phuemdev\phuemtest\bin\Debug\netcoreapp1.1\phuemtest.runtimeconfig.dev.json
+C:\phuemdev\phuemtest\bin\Debug\netcoreapp1.1\phuemtest.dll
+C:\phuemdev\phuemtest\bin\Debug\netcoreapp1.1\phuemtest.pdb
+C:\phuemdev\phuemtest\obj\Debug\netcoreapp1.1\phuemtest.csprojResolveAssemblyReference.cache
+C:\phuemdev\phuemtest\obj\Debug\netcoreapp1.1\phuemtest.AssemblyInfo.cs
+C:\phuemdev\phuemtest\obj\Debug\netcoreapp1.1\phuemtest.dll
+C:\phuemdev\phuemtest\obj\Debug\netcoreapp1.1\phuemtest.pdb
