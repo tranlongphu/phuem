@@ -10,7 +10,7 @@ namespace phuemtest.Controllers
     public class HomeController : Controller
     {
         IConfiguration config;
-        public HomeController(IConfiguration config)
+        public HomeController1(IConfiguration config)
         {
             this.config = config;
         }
